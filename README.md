@@ -11,7 +11,7 @@ ssh pi@moode.local
 
 2. Download and unzip repository content:
 ```
-wget -c "https://github.com/vcucek/ifi-tidal-moode/archive/refs/heads/master.zip" -O - | busybox unzip -
+wget -c "https://github.com/altecdansing/ifi-tidal-moode/archive/refs/heads/master.zip" -O - | busybox unzip -
 ```
 
 3. Navigate to folder:
